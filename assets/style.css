@@ -18,4 +18,14 @@
 text-align: center;
 border:;
 }
+.BourseLaManu {
+    vertical-align: middle;
+}
 
+.acces {
+    border-radius: 20%;
+    font-size: 3rem;
+    background-color: black;
+    color: orangered;
+    text-align: center;
+    }
