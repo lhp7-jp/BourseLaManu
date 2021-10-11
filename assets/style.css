@@ -1,11 +1,10 @@
-
 .BourseLaManu {
     background: linear-gradient(0deg, #27cece, #0996ce);
     border: 1px solid black;
     width: 100%;
     height: 100%;
-    
 }
+
 .zoneOrange {
     color: orange;
 }
@@ -16,8 +15,9 @@
 
 .situationGeographique {
     font-family: 'Anton', sans-serif;
-text-align: center;
+    text-align: center;
 }
+
 .BourseLaManu {
     vertical-align: middle;
 }
@@ -28,4 +28,39 @@ text-align: center;
     background-color: rgb(247, 210, 3);
     color: rgb(7, 7, 7);
     text-align: center;
-    }
+}
+
+.photoContainer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+
+
+}
+
+.picontainer {
+    border-radius: 10%;
+    height: 15rem;
+    width: 30rem;
+    box-shadow: 6px 6px 4px rgb(0, 0, 0);
+
+}
+
+.piclh {
+    border-radius: 10%;
+    height: 20rem;
+    width: 40rem;
+    box-shadow: 6px 6px 4px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picvauban {
+    border-radius: 10%;
+    height: 15rem;
+    width: 30rem;
+    box-shadow: 6px 6px 4px rgb(0, 0, 0);
+}
