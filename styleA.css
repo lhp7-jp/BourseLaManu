@@ -1,0 +1,25 @@
+.organisation {
+    font-size: small;
+    color: red;
+    margin: 1rem;
+        border: solid black 1px;
+
+}
+
+.mesure {
+    text-align: center;
+}
+
+.securite {
+    text-align: center;
+}
+
+li{padding-left: 2rem;}
+
+.biens {margin: 1rem;
+    font-size: small;
+    border: solid black 1px;
+
+
+
+}
