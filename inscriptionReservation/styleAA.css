@@ -1,0 +1,38 @@
+body {
+    background-position: center;
+    background-size: cover;
+    background-image: url(image/lehavre1\ .jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #01657C;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 0.1vw;flex-direction: row;
+}
+
+.form {
+    background-color: blanchedalmond;
+    /* align-items: flex-start; */
+    padding: 20px;
+    border-radius: 10px;
+    border: solid black 1px;
+    width:25%;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    box-shadow: black 5rem;
+    
+}
+page{opacity: 0%;
+
+
+}
+
+input {
+    width: 50%;
+    margin-top: 5px;
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: solid black 1px;
+}
