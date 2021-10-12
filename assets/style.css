@@ -1,4 +1,4 @@
-.BourseLaManu {
+.BourseLaManu, .situationGeographique {
     background: linear-gradient(0deg, #27cece, #0996ce);
     border: 1px solid black;
     width: 100%;
@@ -63,4 +63,23 @@
     height: 15rem;
     width: 30rem;
     box-shadow: 6px 6px 4px rgb(0, 0, 0);
+}
+
+button{
+    background-color: #FFCF09;
+    border: none;
+    font-size: 1.2vw;
+    padding: 15px 25px;
+    font-weight: bold;
+    margin: 0.5rem;
+}
+
+.brocante, h2{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.program{
+    font-family: 'Anton', sans-serif;
+    padding-left: 2rem;
 }

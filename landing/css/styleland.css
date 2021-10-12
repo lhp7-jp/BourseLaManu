@@ -6,10 +6,9 @@ body{
 .grid{
     display: grid;
     grid-template-columns: 55% 45%;
-    grid-template-rows: 35% 45% 20%;
+    grid-template-rows: 35% 40% 25%;
     align-items: center;
     background-color: #01657C;
-    color: whitesmoke;
 }
 
 .header{
@@ -44,6 +43,13 @@ img{
 
 li{
     padding: 0.5rem;
+}
+
+.place{
+    font-size: 1.6vw;
+    text-align: center;
+    padding-bottom: 2.5vw;
+    padding-top: 0;
 }
 
 .info{
