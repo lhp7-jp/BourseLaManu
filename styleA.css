@@ -1,6 +1,8 @@
+body{  background-color: #01657C;
+    font-family: 'Anton', sans-serif;}
 .organisation {
     font-size: small;
-    color: red;
+    color: rgb(0, 0, 0);
     margin: 1rem;
         border: solid black 1px;
 
